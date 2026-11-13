@@ -60,7 +60,7 @@ export const RECOMMENDED_GEAR: GearItem[] = [
       { label: 'Smart Regulations', value: 'UK Smart Charge Points Regs compliant' },
       { label: 'Enclosure Rating', value: 'IP65 weatherproof & IK10 impact rated' },
     ],
-    amazonUrl: 'https://amazon.co.uk',
+    amazonUrl: 'https://amazon.co.uk&tag=chargewiseuk-21',
     ctaLabel: 'Check Price on Amazon UK',
   },
   {
@@ -77,7 +77,7 @@ export const RECOMMENDED_GEAR: GearItem[] = [
       { label: 'Current & Power', value: '32A Single-Phase (up to 7.4 kW)' },
       { label: 'Jacket Durability', value: ' Crush-resistant TPU (-30°C to +50°C)' },
     ],
-    amazonUrl: 'https://amazon.co.uk',
+    amazonUrl: 'https://amazon.co.uk&tag=chargewiseuk-21',
     ctaLabel: 'Check Price on Amazon UK',
   },
   {
@@ -94,7 +94,7 @@ export const RECOMMENDED_GEAR: GearItem[] = [
       { label: 'Channel Bore', value: '18mm underside slot fits heavy EV leads' },
       { label: 'Safety Visibility', value: 'Embedded high-visibility yellow strips' },
     ],
-    amazonUrl: 'https://amazon.co.uk',
+    amazonUrl: 'https://amazon.co.uk&tag=chargewiseuk-21',
     ctaLabel: 'Check Price on Amazon UK',
   },
 ];

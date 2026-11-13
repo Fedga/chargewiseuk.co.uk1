@@ -1,0 +1,6 @@
+{
+  "name": "Chargewise UK – EV Home & Cross-Pavement Savings Calculator",
+  "description": "Calculate annual UK EV home and cross-pavement gully charging savings, OZEV grant hardware payback months, and compare overnight EV tariffs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
